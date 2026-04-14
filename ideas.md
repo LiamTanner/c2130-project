@@ -9,4 +9,4 @@ https://corgis-edu.github.io/corgis/csv/weather/
 ### Questions:
 - How does temperature vary by location throughout the year?
 - Which areas experience the most extreme weather patterns?
-- To answer the question “Which areas experience the most extreme weather patterns?”, I would loop through the weather dataset and group data by location. For each location, I would track the maximum and minimum temperatures and calculate the temperature range.
+- To expand on the question “Which areas experience the most extreme weather patterns?”, I would loop through the weather dataset and group data by location. For each location, I would track the maximum and minimum temperatures and calculate the temperature range.
