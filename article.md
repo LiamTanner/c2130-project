@@ -1,6 +1,6 @@
 # CS-130 Project Article
 
-## Intr0duction
+## Introduction
 
 This analysis examines how key weather variables such as precipitation temperature and wind speed change throughout the year in the United States of America. By organizing the data by month we can identify clear seasonal patterns and compare how different weather conditions fluctuate over time. The visualizations help reveal relationships between the seasons and overall climate behavior. Together they provide a clearer understanding of how weather varies in a structured and predictable way across the year. 
 
