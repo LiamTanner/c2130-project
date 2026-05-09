@@ -14,7 +14,7 @@ The average of the temperature highs follow a predictable seasonal pattern, grad
 
 ---
 
-![Temperature Chart](Precipitation-Visual.png)
+![Temperature Chart](Temperature-Visual.png)
 
 ---
 
